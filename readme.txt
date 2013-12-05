@@ -1,3 +1,3 @@
 this project is so awesome. but not really.
 
-adding more information.
+adding more totally awesome great information.
