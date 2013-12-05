@@ -1,3 +1,7 @@
 hello 
 
-simple text chg on file	1, dawg.
+<<<<<<< HEAD
+simple text chg on file	1, good sir
+=======
+simple text chg on file	1, good sir
+>>>>>>> foo_feature
