@@ -4,3 +4,7 @@ adding more information.
 
 ho hum.
 
+<<<<<<< HEAD
+=======
+adding more totally awesome great information.
+>>>>>>> foo_feature
