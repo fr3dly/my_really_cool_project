@@ -1,3 +1,6 @@
-this project is so awesome. but not really.
+this project is so totally awesome. but not really.
 
 adding more information.
+
+ho hum.
+
